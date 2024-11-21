@@ -1,6 +1,6 @@
 # Mail Merge 
 
-<img src ='./screenshots/screenshot.png' width='500'>
+<img src ='./screenshots/screenshot.png' width='1000'>
 
 With this program you can make personalised letters for  your guests.
 Python program replaces "[name]" with the names you list in "invited_names.txt". Output files are saved in "Output" folder.
