@@ -11,7 +11,7 @@ Python 3.11, open() and readlines() functions
 - main.py (file that starts program)
 - Input
 - Output
-### | main.py , Input, Output, needs to be in the same dictionary! Otherwise program will not work properly!
+### main.py , Input, Output, needs to be in the same dictionary! Otherwise program will not work properly!
 ## License
 Copyright (c) [2024] [Karol Dybkowski]
 
