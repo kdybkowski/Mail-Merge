@@ -5,9 +5,9 @@
 With this program you can make personalised letters for  your guests.
 Python program replaces "[name]" with the names you list in "invited_names.txt". Output files are saved in "Output" folder.
 ## Used technologies/frameworks/libraries/languages
-Python 3.11, open() and readlines() functions
+Python 3.11, NSIS 3.10
 ## You need to download:
-- Mail-Merge.exe
+- Mail_Merge.exe
 ## License
 Copyright (c) [2024] [Karol Dybkowski]
 
