@@ -7,11 +7,7 @@ Python program replaces "[name]" with the names you list in "invited_names.txt".
 ## Used technologies/frameworks/libraries/languages
 Python 3.11, open() and readlines() functions
 ## You need to download:
-- .venv
-- main.py (file that starts program)
-- Input
-- Output
-### main.py , Input, Output, needs to be in the same dictionary! Otherwise program will not work properly!
+- Mail-Merge.exe
 ## License
 Copyright (c) [2024] [Karol Dybkowski]
 
